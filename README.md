@@ -20,5 +20,7 @@ A Simple Wallpaper For iOS
 ![44449](https://github.com/user-attachments/assets/c688bd18-1516-4146-9c9e-8b45640fdea2)
 
 深色模式：
-
 ![65738](https://github.com/user-attachments/assets/5ad93370-2b54-4552-964b-47ff2f664096)
+
+
+
